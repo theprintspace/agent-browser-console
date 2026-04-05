@@ -1,0 +1,14 @@
+{
+  "name": "@theprintspace/agent-browser-console",
+  "version": "1.0.0",
+  "description": "MCP server adding console log capture to agent-browser",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "agent-browser-console": "./index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1"
+  },
+  "license": "MIT"
+}
